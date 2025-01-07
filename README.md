@@ -1,0 +1,1 @@
+从laravel request实例中获取参数用以实例化业务对象
