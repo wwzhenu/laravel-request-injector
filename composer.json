@@ -1,0 +1,20 @@
+{
+    "name": "marin/laravel-request-injector",
+    "description": "laravel requet injector",
+    "type": "library",
+    "require": {
+        "laravel/laravel": ">=v9.0.0",
+        "php": "^8.0.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Marin\\LaravelRequestInjector\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marin",
+            "email": "wangwenzeng@tal.com"
+        }
+    ]
+}
